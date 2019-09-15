@@ -1,0 +1,8 @@
+package prj1;
+public class Prj1{
+           public static void main(String[] args) {
+               System.out.println ("I Rule!");
+                System.out.println ("The world!");
+           
+           }
+}
